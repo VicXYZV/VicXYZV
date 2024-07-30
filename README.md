@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sou Victor Olavo, sou estudante de TI e estou me desenvolvendo 
 
 <!--
 **VicXYZV/VicXYZV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
